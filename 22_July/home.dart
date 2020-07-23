@@ -34,9 +34,9 @@ home() {
     color: Colors.black,
   );
 
-  var My_Home_Button = IconButton(icon: My_Home_Icon, onPressed: my_press1());
+  var My_Home_Button = IconButton(icon: My_Home_Icon, onPressed: my_press1);
 
-  var My_Email_Button = IconButton(icon: My_Email_Icon, onPressed: my_press2());
+  var My_Email_Button = IconButton(icon: My_Email_Icon, onPressed: my_press2);
 
   var my_appbar = AppBar(
     title: mytitle,
