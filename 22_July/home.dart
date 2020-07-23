@@ -41,9 +41,9 @@ home() {
   var my_appbar = AppBar(
     title: mytitle,
     backgroundColor: Colors.pink,
-    leading: My_Home_Icon,
+    leading: My_Home_Button,
     actions: <Widget>[
-      My_Email_Icon,
+      My_Email_Button,
     ],
   );
 
