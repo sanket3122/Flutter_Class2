@@ -7,5 +7,5 @@
 We can do any customisation in dart because of package used in top of Dart like flutter package !
 And flutter is package contains lot of modules!
 - Flutter stores prog files in SDK!
-- In Prog Lang where we install some time extra SW are called as Package !
+- In Prog Lang where we install some time extra SW are called as Package.
 - In Dart if we want to store any Package/Library we use command "flutter pub get"
