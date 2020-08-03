@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
           },
           label: Text('Music'),
           icon: Icon(Icons.music_note),
-          backgroundColor: Colors.pink,
+          backgroundColor: Colors.pink, 
         ),
       ),
     );
